@@ -19,7 +19,10 @@ Acest proiect constă în trei scripturi Python care generează numere aleatoare
 
 
 
-   ## Imagini
+   
+
+
+## Imagini
 
 ### Prezentare 1
 
