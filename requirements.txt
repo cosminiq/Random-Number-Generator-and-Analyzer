@@ -1,0 +1,4 @@
+pandas==1.3.3
+openpyxl==3.0.9
+graphviz==0.16
+random2==1.0.1
